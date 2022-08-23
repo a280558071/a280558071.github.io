@@ -1,4 +1,5 @@
 make.exe --dry-run --always-make --keep-going --print-directory
-'make.exe' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
-���������ļ���
-
+make.exe: Entering directory 'c:/Users/26296/Desktop/jemdoc-python3-master'
+make -C www update
+make.exe: Leaving directory 'c:/Users/26296/Desktop/jemdoc-python3-master'
+ 
