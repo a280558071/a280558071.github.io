@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jan 12 17:08:18 2023
+# Make data base, printed on Thu Jan 12 17:52:15 2023
 
 # Variables
 
@@ -85,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_16820_BJEZOOLJYDOGBEPO
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_2436_QCWEQUFGWAKXSUMA
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -105,7 +105,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\e8a3071ea4344d9d48ef8a4df2c097372b0c5161
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\97dec172d3256f8ca4bfb2143f3f76b503ca0534
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -151,7 +151,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.74.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.74.3-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -217,7 +217,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 16820
+VSCODE_PID = 2436
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
@@ -315,6 +315,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Thu Jan 12 17:08:18 2023
+# Finished Make data base on Thu Jan 12 17:52:15 2023
 
  
