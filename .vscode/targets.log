@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Feb 07 23:13:04 2023
+# Make data base, printed on Tue Feb 07 23:22:39 2023
 
 # Variables
 
@@ -87,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_21912_XWLLPYNZOXKLFZPQ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_16764_OSAGWTISKUFRXGAQ
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -221,7 +221,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 21912
+VSCODE_PID = 16764
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
@@ -319,6 +319,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Tue Feb 07 23:13:04 2023
+# Finished Make data base on Tue Feb 07 23:22:39 2023
 
  
