@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Feb 12 16:31:23 2023
+# Make data base, printed on Sun Feb 26 11:22:44 2023
 
 # Variables
 
@@ -57,7 +57,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_CWD = C:\Users\26296\Desktop\jemdoc-sxw
+VSCODE_CWD = C:\Users\26296\AppData\Local\Programs\Microsoft VS Code
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
@@ -85,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_25808_ZMUSILMGLYFWKACB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_26560_TWXREBEODHWZIQWN
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -173,8 +173,6 @@ SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # environment
-VSCODE_L10N_BUNDLE_LOCATION = 
-# environment
 PLATFORMCODE = AN
 # automatic
 +F = $(notdir $+)
@@ -219,11 +217,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 25808
+VSCODE_PID = 26560
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=105/1024=10%, Rehash=0, Collisions=16/126=13%
+# Load=104/1024=10%, Rehash=0, Collisions=16/125=13%
 
 # Pattern-specific Variable Values
 
@@ -231,7 +229,7 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1676190550): 29 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1676193161): 29 files, no impossibilities.
 
 # 29 files, no impossibilities in 1 directories.
 
@@ -317,6 +315,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Sun Feb 12 16:31:23 2023
+# Finished Make data base on Sun Feb 26 11:22:44 2023
 
  
