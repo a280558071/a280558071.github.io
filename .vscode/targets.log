@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Feb 26 12:39:45 2023
+# Make data base, printed on Wed Mar 22 16:18:15 2023
 
 # Variables
 
@@ -22,6 +22,8 @@ GNUMAKEFLAGS :=
 .SHELLFLAGS := -c
 # environment
 PTSMINSTALLPATH_X86 = c:\Program Files (x86)\HP\HP ProtectTools Security Manager\Bin\
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # makefile
 MAKEFLAGS = pqrR
 # automatic
@@ -43,7 +45,7 @@ GUROBI_HOME = C:\gurobi952\win64
 # environment
 WINDIR = C:\WINDOWS
 # environment
-VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{},"_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
 ONEDRIVE = C:\Users\26296\OneDrive
 # environment
@@ -85,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_2052_IFFKQFUHOOYWAQHY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_16784_WJDZXJGNNJIKQMYA
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -105,7 +107,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\441438abd1ac652551dbe4d408dfcec8a499b8bf
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\ee2b180d582a7f601fa6ecfdad8d9fd269ab1884
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -120,6 +122,8 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 USERDOMAIN = DESKTOP-F93SNQI
 # environment
 MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# environment
+EFC_13124 = 1
 # environment
 MAKELEVEL := 0
 # default
@@ -151,7 +155,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.75.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.76.2-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -172,6 +176,8 @@ INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # environment
 PLATFORMCODE = AN
 # automatic
@@ -217,11 +223,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 2052
+VSCODE_PID = 16784
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=104/1024=10%, Rehash=0, Collisions=16/125=13%
+# Load=107/1024=10%, Rehash=0, Collisions=16/128=13%
 
 # Pattern-specific Variable Values
 
@@ -315,6 +321,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Sun Feb 26 12:39:45 2023
+# Finished Make data base on Wed Mar 22 16:18:15 2023
 
  
