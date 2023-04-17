@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Mar 22 16:18:15 2023
+# Make data base, printed on Mon Apr 17 21:12:26 2023
 
 # Variables
 
@@ -45,7 +45,7 @@ GUROBI_HOME = C:\gurobi952\win64
 # environment
 WINDIR = C:\WINDOWS
 # environment
-VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"en","osLocale":"en-us","availableLanguages":{},"_languagePackSupport":true}
 # environment
 ONEDRIVE = C:\Users\26296\OneDrive
 # environment
@@ -87,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_16784_WJDZXJGNNJIKQMYA
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_3688_BGCPBGRIQFZZDSTY
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -107,7 +107,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\ee2b180d582a7f601fa6ecfdad8d9fd269ab1884
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\704ed70d4fd1c6bd6342c436f1ede30d1cff4710
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -122,8 +122,6 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 USERDOMAIN = DESKTOP-F93SNQI
 # environment
 MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
-# environment
-EFC_13124 = 1
 # environment
 MAKELEVEL := 0
 # default
@@ -155,7 +153,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.76.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.77.3-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -177,8 +175,6 @@ SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # environment
-VSCODE_L10N_BUNDLE_LOCATION = 
-# environment
 PLATFORMCODE = AN
 # automatic
 +F = $(notdir $+)
@@ -192,6 +188,8 @@ COMSPEC = C:\WINDOWS\system32\cmd.exe
 PTSMINSTALLPATH = c:\Program Files\HP\HP ProtectTools Security Manager\Bin\
 # default
 MAKEFILES := 
+# environment
+EFC_2556 = 1
 # automatic
 <F = $(notdir $<)
 # environment
@@ -223,11 +221,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 16784
+VSCODE_PID = 3688
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=107/1024=10%, Rehash=0, Collisions=16/128=13%
+# Load=106/1024=10%, Rehash=0, Collisions=16/127=13%
 
 # Pattern-specific Variable Values
 
@@ -235,7 +233,7 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1676193161): 29 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1679901508): 29 files, no impossibilities.
 
 # 29 files, no impossibilities in 1 directories.
 
@@ -321,6 +319,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Wed Mar 22 16:18:15 2023
+# Finished Make data base on Mon Apr 17 21:12:26 2023
 
  
