@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Apr 17 21:12:26 2023
+# Make data base, printed on Tue Apr 18 12:58:26 2023
 
 # Variables
 
@@ -87,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_3688_BGCPBGRIQFZZDSTY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_10068_NPTPVVIUZIJSMQMY
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -136,6 +136,8 @@ MAKE_VERSION := 4.2.1
 PROGRAMFILES(X86) = C:\Program Files (x86)
 # automatic
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+EFC_12324 = 1
 # environment
 LOCALAPPDATA = C:\Users\26296\AppData\Local
 # environment
@@ -188,8 +190,6 @@ COMSPEC = C:\WINDOWS\system32\cmd.exe
 PTSMINSTALLPATH = c:\Program Files\HP\HP ProtectTools Security Manager\Bin\
 # default
 MAKEFILES := 
-# environment
-EFC_2556 = 1
 # automatic
 <F = $(notdir $<)
 # environment
@@ -221,7 +221,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 3688
+VSCODE_PID = 10068
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
@@ -319,6 +319,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Mon Apr 17 21:12:26 2023
+# Finished Make data base on Tue Apr 18 12:58:26 2023
 
  
