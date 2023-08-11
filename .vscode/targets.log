@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun 15 18:45:08 2023
+# Make data base, printed on Fri Aug 11 14:12:24 2023
 
 # Variables
 
@@ -26,6 +26,8 @@ PTSMINSTALLPATH_X86 = c:\Program Files (x86)\HP\HP ProtectTools Security Manager
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # makefile
 MAKEFLAGS = pqrR
+# environment
+COPT_LICENSE_DIR = C:\Program Files\copt65
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -41,7 +43,7 @@ CURDIR := c:/Users/26296/Desktop/jemdoc-sxw
 # default
 SHELL := sh.exe
 # environment
-GUROBI_HOME = C:\gurobi952\win64
+GUROBI_HOME = C:\gurobi1002\win64
 # environment
 WINDIR = C:\WINDOWS
 # environment
@@ -63,7 +65,7 @@ VSCODE_CWD = C:\Users\26296\AppData\Local\Programs\Microsoft VS Code
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
-PATH = C:\gurobi952\win64\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\opl\bin\x64_win64;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\opl\oplide\;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\cplex\bin\x64_win64;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\cpoptimizer\bin\x64_win64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\dotnet\;C:\Program Files\MATLAB\R2022a\runtime\win64;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\dotnet\;C:\mingw64\bin;C:\Users\26296\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\ems\user\lib;C:\Users\26296\AppData\Local\Programs\Python\Python37;C:\Users\26296\AppData\Local\Programs\Python\Python37\Scripts;C:\ProgramData\Anaconda3\condabin;C:\Users\26296\anaconda3;C:\Users\26296\anaconda3\Scripts;C:\Users\26296\anaconda3\Library\bin;C:\Program Files\MATLAB\MATLAB Runtime\v912\runtime\win64;C:\Users\26296\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\26296\AppData\Local\Programs\Python\Python37\;C:\Users\26296\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\26296\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\26296\.dotnet\tools;C:\Users\26296\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\26296\AppData\Local\Pandoc\;C:\Users\26296\AppData\Roaming\npm;C:\Users\26296\AppData\Local\JetBrains\Toolbox\scripts;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+PATH = C:\gurobi1002\win64\bin;C:\Program Files\copt65\bin;C:\gurobi952\win64\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\opl\bin\x64_win64;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\opl\oplide\;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\cplex\bin\x64_win64;C:\Program Files\IBM\ILOG\CPLEX_Studio1210\cpoptimizer\bin\x64_win64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\dotnet\;C:\Program Files\MATLAB\R2022a\runtime\win64;C:\Program Files\MATLAB\R2022a\bin;C:\Program Files\dotnet\;C:\mingw64\bin;C:\Users\26296\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\ems\user\lib;C:\Users\26296\AppData\Local\Programs\Python\Python37;C:\Users\26296\AppData\Local\Programs\Python\Python37\Scripts;C:\ProgramData\Anaconda3\condabin;C:\Users\26296\anaconda3;C:\Users\26296\anaconda3\Scripts;C:\Users\26296\anaconda3\Library\bin;C:\Program Files\MATLAB\MATLAB Runtime\v912\runtime\win64;C:\Users\26296\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\26296\AppData\Local\Programs\Python\Python37\;C:\Users\26296\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\26296\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\26296\.dotnet\tools;C:\Users\26296\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\26296\AppData\Local\Pandoc\;C:\Users\26296\AppData\Roaming\npm;C:\Users\26296\AppData\Local\JetBrains\Toolbox\scripts;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
 # environment
 SW_SIM_HYDRA = C:\Program Files\Common Files\SolidWorks Shared\Simulation Worker Agent\
 # environment
@@ -79,6 +81,8 @@ USERPROFILE = C:\Users\26296
 # environment
 ALLUSERSPROFILE = C:\ProgramData
 # environment
+EFC_12088 = 1
+# environment
 NUMBER_OF_PROCESSORS = 12
 # environment
 ELECTRON_RUN_AS_NODE = 1
@@ -87,7 +91,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_28856_YWWFTYXPWJHWLHUZ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_6372_BLOKLUFSQQRKTLQX
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -107,7 +111,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\4cb974a7aed77a74c7813bdccd99ee0d04901215
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\6c3e3dba23e8fadc360aed75ce363ba185c49794
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -122,6 +126,8 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 USERDOMAIN = DESKTOP-F93SNQI
 # environment
 MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# environment
+COPT_HOME = C:\Program Files\copt65
 # environment
 MAKELEVEL := 0
 # default
@@ -153,7 +159,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.79.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.81.1-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -175,15 +181,11 @@ SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # environment
-EFC_5680 = 1
-# environment
 PLATFORMCODE = AN
 # automatic
 +F = $(notdir $+)
 # environment
 APPDATA = C:\Users\26296\AppData\Roaming
-# environment
-__COMPAT_LAYER = DetectorsAppHealth
 # environment
 TEMP = C:\Users\26296\AppData\Local\Temp
 # environment
@@ -223,11 +225,11 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 28856
+VSCODE_PID = 6372
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=107/1024=10%, Rehash=0, Collisions=16/128=13%
+# Load=108/1024=11%, Rehash=0, Collisions=16/129=12%
 
 # Pattern-specific Variable Values
 
@@ -235,7 +237,7 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1679901508): 29 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1686826373): 29 files, no impossibilities.
 
 # 29 files, no impossibilities in 1 directories.
 
@@ -321,6 +323,6 @@ wwws:
 # strcache performance: lookups = 55 / hit rate = 30%
 # hash-table stats:
 # Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Thu Jun 15 18:45:08 2023
+# Finished Make data base on Fri Aug 11 14:12:24 2023
 
  
