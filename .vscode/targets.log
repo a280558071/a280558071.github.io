@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Aug 11 14:12:24 2023
+# Make data base, printed on Mon Aug 21 13:36:29 2023
 
 # Variables
 
@@ -91,7 +91,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_6372_BLOKLUFSQQRKTLQX
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_12148_GRUPPPJIQQOELNJN
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -225,7 +225,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 6372
+VSCODE_PID = 12148
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
@@ -237,9 +237,9 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1686826373): 29 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1691734548): 31 files, no impossibilities.
 
-# 29 files, no impossibilities in 1 directories.
+# 31 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -317,12 +317,12 @@ wwws:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 38 / storage = 366 B / avg = 9 B
-# current buf: size = 8162 B / used = 366 B / count = 38 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 40 / storage = 386 B / avg = 9 B
+# current buf: size = 8162 B / used = 386 B / count = 40 / avg = 9 B
 
-# strcache performance: lookups = 55 / hit rate = 30%
+# strcache performance: lookups = 57 / hit rate = 29%
 # hash-table stats:
-# Load=38/8192=0%, Rehash=0, Collisions=1/55=2%
-# Finished Make data base on Fri Aug 11 14:12:24 2023
+# Load=40/8192=0%, Rehash=0, Collisions=1/57=2%
+# Finished Make data base on Mon Aug 21 13:36:29 2023
 
  
