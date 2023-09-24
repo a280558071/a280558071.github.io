@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Aug 21 13:36:29 2023
+# Make data base, printed on Thu Sep 21 22:28:52 2023
 
 # Variables
 
@@ -81,8 +81,6 @@ USERPROFILE = C:\Users\26296
 # environment
 ALLUSERSPROFILE = C:\ProgramData
 # environment
-EFC_12088 = 1
-# environment
 NUMBER_OF_PROCESSORS = 12
 # environment
 ELECTRON_RUN_AS_NODE = 1
@@ -91,7 +89,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\LOCAL\crashpad_12148_GRUPPPJIQQOELNJN
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15228_YRFBKGOVNMUOOXTO
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -111,7 +109,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\6c3e3dba23e8fadc360aed75ce363ba185c49794
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\abd2f3db4bdb28f9e95536dfa84d8479f1eb312d
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -143,6 +141,8 @@ PROGRAMFILES(X86) = C:\Program Files (x86)
 # automatic
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
 # environment
+EFC_12504 = 1
+# environment
 LOCALAPPDATA = C:\Users\26296\AppData\Local
 # environment
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
@@ -159,7 +159,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.81.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.82.2-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -225,7 +225,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 12148
+VSCODE_PID = 15228
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
@@ -323,6 +323,6 @@ wwws:
 # strcache performance: lookups = 57 / hit rate = 29%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=1/57=2%
-# Finished Make data base on Mon Aug 21 13:36:29 2023
+# Finished Make data base on Thu Sep 21 22:28:52 2023
 
  
