@@ -1,6 +1,4 @@
 make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
-make.exe: *** No rule to make target 'all'.  Stop.
-
 # GNU Make 4.2.1
 # Built for x86_64-w64-mingw32
 # Copyright (C) 1988-2016 Free Software Foundation, Inc.
@@ -8,7 +6,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Sep 21 22:28:52 2023
+# Make data base, printed on Sun Dec 31 12:32:21 2023
 
 # Variables
 
@@ -89,7 +87,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15228_YRFBKGOVNMUOOXTO
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_28832_VBYOMANRVMJEWTOA
 # environment
 COMPUTERNAME = DESKTOP-F93SNQI
 # environment
@@ -109,7 +107,7 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\abd2f3db4bdb28f9e95536dfa84d8479f1eb312d
+VSCODE_CODE_CACHE_PATH = C:\Users\26296\AppData\Roaming\Code\CachedData\af28b32d7e553898b2a91af498b1fb666fdebe0c
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -141,10 +139,11 @@ PROGRAMFILES(X86) = C:\Program Files (x86)
 # automatic
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
 # environment
-EFC_12504 = 1
-# environment
 LOCALAPPDATA = C:\Users\26296\AppData\Local
-# environment
+# envi 
+make.exe: *** No rule to make target 'all'.  Stop.
+
+ronment
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\
 # default
 MAKE_COMMAND := make.exe
@@ -159,7 +158,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.82.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\43fad5cd6fe00194ebff9b22401f0cc0-1.85.0-main-sock
 # environment
 PYTHONPATH = C:\ems\user\lib\pyd
 # environment
@@ -180,6 +179,8 @@ INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 SYSTEMROOT = C:\WINDOWS
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # environment
 PLATFORMCODE = AN
 # automatic
@@ -221,15 +222,17 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-F93SNQI
 # default
 .RECIPEPREFIX := 
 # environment
+EFC_1056 = 1
+# environment
 LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 15228
+VSCODE_PID = 28832
 # environment
 CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 # variable set hash-table stats:
-# Load=108/1024=11%, Rehash=0, Collisions=16/129=12%
+# Load=109/1024=11%, Rehash=0, Collisions=16/130=12%
 
 # Pattern-specific Variable Values
 
@@ -237,7 +240,7 @@ CPLEX_STUDIO_DIR1210 = C:\Program Files\IBM\ILOG\CPLEX_Studio1210
 
 # Directories
 
-# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1691734548): 31 files, no impossibilities.
+# . (key c:/Users/26296/Desktop/jemdoc-sxw, mtime 1695307428): 31 files, no impossibilities.
 
 # 31 files, no impossibilities in 1 directories.
 
@@ -323,6 +326,6 @@ wwws:
 # strcache performance: lookups = 57 / hit rate = 29%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=1/57=2%
-# Finished Make data base on Thu Sep 21 22:28:52 2023
+# Finished Make data base on Sun Dec 31 12:32:21 2023
 
  
