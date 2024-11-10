@@ -1,5 +1,5 @@
 make.exe --dry-run --always-make --keep-going --print-directory
-make.exe: Entering directory 'c:/Users/26296/Desktop/jemdoc-sxw'
+make: Entering directory 'c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io'
 make -C www update
-make.exe: Leaving directory 'c:/Users/26296/Desktop/jemdoc-sxw'
+make: Leaving directory 'c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io'
  
