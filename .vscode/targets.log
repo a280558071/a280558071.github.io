@@ -8,10 +8,12 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Dec 03 18:15:02 2024
+# Make data base, printed on Wed Dec 04 09:53:10 2024
 
 # Variables
 
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -19,13 +21,13 @@ LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
 # environment
-LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.8\resources\app\git
+LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.9\resources\app\git
 # environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
-VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.8
+VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.9
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -40,6 +42,8 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
 CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33288_KDAPKZVXTOQARRJY
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -209,7 +213,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=98/1024=10%, Rehash=0, Collisions=8/126=6%
+# Load=100/1024=10%, Rehash=0, Collisions=9/128=7%
 
 # Pattern-specific Variable Values
 
@@ -304,6 +308,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Tue Dec 03 18:15:02 2024
+# Finished Make data base on Wed Dec 04 09:53:10 2024
 
  
