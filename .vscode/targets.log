@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Dec 03 18:08:55 2024
+# Make data base, printed on Tue Dec 03 18:15:02 2024
 
 # Variables
 
@@ -39,7 +39,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14468_DBEYIILOWVQEMOCJ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33288_KDAPKZVXTOQARRJY
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -53,7 +53,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\e8653663e8840adaf45af01eab5c627a5af81807
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\f1a4fb101478ce6ec82fe9627c43efbf9e98c813
 # environment
 EFC_10044 = 1
 # environment
@@ -74,8 +74,6 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
 GUROBI_HOME = D:\gurobi1100\win64
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -95,7 +93,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 14468
+VSCODE_PID = 33288
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -187,7 +185,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.95.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.95.3-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -211,7 +209,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=99/1024=10%, Rehash=0, Collisions=9/127=7%
+# Load=98/1024=10%, Rehash=0, Collisions=8/126=6%
 
 # Pattern-specific Variable Values
 
@@ -306,6 +304,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Tue Dec 03 18:08:55 2024
+# Finished Make data base on Tue Dec 03 18:15:02 2024
 
  
