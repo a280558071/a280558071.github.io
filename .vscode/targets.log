@@ -8,12 +8,10 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Dec 04 09:53:10 2024
+# Make data base, printed on Mon Dec 09 13:12:53 2024
 
 # Variables
 
-# environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -38,12 +36,12 @@ PROCESSOR_LEVEL = 6
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# environment
+APPLICATIONINSIGHTS_CONFIGURATION_CONTENT = {}
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33288_KDAPKZVXTOQARRJY
-# environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33616_QCFDVLICACEPADBP
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -77,7 +75,11 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
 GUROBI_HOME = D:\gurobi1100\win64
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -97,7 +99,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 33288
+VSCODE_PID = 33616
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -164,6 +166,8 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -213,7 +217,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=100/1024=10%, Rehash=0, Collisions=9/128=7%
+# Load=102/1024=10%, Rehash=0, Collisions=10/130=8%
 
 # Pattern-specific Variable Values
 
@@ -308,6 +312,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Dec 04 09:53:10 2024
+# Finished Make data base on Mon Dec 09 13:12:53 2024
 
  
