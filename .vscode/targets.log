@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Dec 09 13:12:53 2024
+# Make data base, printed on Tue Dec 31 14:36:38 2024
 
 # Variables
 
@@ -36,12 +36,10 @@ PROCESSOR_LEVEL = 6
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
-# environment
-APPLICATIONINSIGHTS_CONFIGURATION_CONTENT = {}
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33616_QCFDVLICACEPADBP
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_27556_VPRBPIBGYTWVIGWA
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -55,9 +53,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\f1a4fb101478ce6ec82fe9627c43efbf9e98c813
-# environment
-EFC_10044 = 1
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\138f619c86f1199955d53b4166bef66ef252935c
 # environment
 LANG = C
 # default
@@ -71,11 +67,11 @@ PROCESSOR_ARCHITEW6432 = AMD64
 # makefile
 MAKEFLAGS = pqrR
 # environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
 ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
-# environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1100\win64
 # environment
@@ -99,7 +95,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 33616
+VSCODE_PID = 27556
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -129,7 +125,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = D:\Program Files\copt72\bin;D:\Program Files\copt70\bin;D:\gurobi1100\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;C:\Users\shenx\anaconda3;C:\Users\shenx\anaconda3\Library\bin;C:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;C:\Users\shenx\anaconda3;C:\Users\shenx\anaconda3\Scripts;C:\Users\shenx\anaconda3\Library\bin;D:\Program Files\MiKTeX\miktex\bin\x64\
+PATH = C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;D:\gurobi1100\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;C:\Users\shenx\anaconda3;C:\Users\shenx\anaconda3\Library\bin;C:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Scripts;D:\Users\shenx\anaconda3\Library\bin;D:\Program Files\MiKTeX\miktex\bin\x64\;
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
@@ -138,6 +134,8 @@ COMPUTERNAME = XWSHEN-MATEBOOK
 MAKEFILES := 
 # automatic
 ^F = $(notdir $^)
+# environment
+F_EM64T_REDIST11 = C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\
 # environment
 PROMPT = $P$G
 # environment
@@ -166,8 +164,6 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-__COMPAT_LAYER = DetectorsAppHealth
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -193,11 +189,13 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.95.3-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.96.0-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
 <F = $(notdir $<)
+# environment
+EFC_12864 = 1
 # default
 SUFFIXES := 
 # environment
@@ -210,6 +208,8 @@ VSCODE_CLI = 1
 ELECTRON_NO_ATTACH_CONSOLE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver output-sync load dospaths
+# environment
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\intel64_win_mic
 # environment
 PROCESSOR_REVISION = ba02
 # environment
@@ -312,6 +312,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Mon Dec 09 13:12:53 2024
+# Finished Make data base on Tue Dec 31 14:36:38 2024
 
  
