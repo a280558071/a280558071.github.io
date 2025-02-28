@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Feb 19 18:55:55 2025
+# Make data base, printed on Fri Feb 28 18:29:48 2025
 
 # Variables
 
@@ -35,15 +35,13 @@ SYSTEMROOT = C:\Windows
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-PSMODULEPATH = %ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_43980_WMYJZJQWJXTTMEVK
-# environment
-EFC_33064 = 1
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7420_FLNBLOSXPOSYUTAB
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -82,8 +80,6 @@ CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -103,7 +99,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 43980
+VSCODE_PID = 7420
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -133,11 +129,13 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\
+PATH = C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
 COMPUTERNAME = XWSHEN-MATEBOOK
+# environment
+EFC_10368 = 1
 # default
 MAKEFILES := 
 # automatic
@@ -150,6 +148,8 @@ PROMPT = $P$G
 CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
+# environment
+OLLAMA_MODELS = D:\OllamaLib
 # environment
 USERNAME = shenx
 # environment
@@ -219,7 +219,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=103/1024=10%, Rehash=0, Collisions=12/131=9%
+# Load=103/1024=10%, Rehash=0, Collisions=11/131=8%
 
 # Pattern-specific Variable Values
 
@@ -314,6 +314,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Feb 19 18:55:55 2025
+# Finished Make data base on Fri Feb 28 18:29:48 2025
 
  
