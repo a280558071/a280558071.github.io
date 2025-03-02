@@ -1,12 +1,12 @@
 Xinwei Shen
-    Home                [index.html]
-    Group               [group.html]
-    Biography           [biography.html]
+    Home/主页                [index.html]
+    Group/团队               [group.html]
+    Biography/简历           [biography.html]
 
 Research
-    Publications        [publications.html]
-    Projects            [projects.html]
-    Services            [services.html]
+    Publications/论著        [publications.html]
+    Projects/科研项目            [projects.html]
+    Services/公共服务            [services.html]
 
 
 # vim: et

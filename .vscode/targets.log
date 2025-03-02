@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Feb 28 18:29:48 2025
+# Make data base, printed on Sun Mar 02 22:25:09 2025
 
 # Variables
 
@@ -18,6 +18,8 @@ FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 SYSTEMDRIVE = C:
 # environment
 LC_ALL = C
+# environment
+EFC_6676 = 1
 # environment
 USERPROFILE = C:\Users\shenx
 # environment
@@ -41,7 +43,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7420_FLNBLOSXPOSYUTAB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_39788_JBLKADKHUEYLXWMH
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -80,6 +82,8 @@ CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -99,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 7420
+VSCODE_PID = 39788
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -134,8 +138,6 @@ PATH = C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program File
 ZES_ENABLE_SYSMAN = 1
 # environment
 COMPUTERNAME = XWSHEN-MATEBOOK
-# environment
-EFC_10368 = 1
 # default
 MAKEFILES := 
 # automatic
@@ -219,7 +221,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=103/1024=10%, Rehash=0, Collisions=11/131=8%
+# Load=104/1024=10%, Rehash=0, Collisions=12/132=9%
 
 # Pattern-specific Variable Values
 
@@ -314,6 +316,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Fri Feb 28 18:29:48 2025
+# Finished Make data base on Sun Mar 02 22:25:09 2025
 
  
