@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Mar 02 22:25:09 2025
+# Make data base, printed on Mon Mar 03 15:49:54 2025
 
 # Variables
 
@@ -43,7 +43,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_39788_JBLKADKHUEYLXWMH
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_29284_TMLBTMVPKKQXQTCG
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -103,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 39788
+VSCODE_PID = 29284
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -171,7 +171,8 @@ ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
 USERDOMAIN = XWSHEN-MATEBOOK
 # 'override' directive
-GNUMAKEFLAGS := 
+GNUMAKE 
+FLAGS := 
 # environment
 OS = Windows_NT
 # makefile
@@ -316,6 +317,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Sun Mar 02 22:25:09 2025
+# Finished Make data base on Mon Mar 03 15:49:54 2025
 
  
