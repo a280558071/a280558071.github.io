@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Mar 03 15:49:54 2025
+# Make data base, printed on Wed Mar 05 18:17:55 2025
 
 # Variables
 
@@ -23,13 +23,11 @@ EFC_6676 = 1
 # environment
 USERPROFILE = C:\Users\shenx
 # environment
-LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.16\resources\app\git
-# environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
-VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.16
+VSCODE_CWD = C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -43,7 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_29284_TMLBTMVPKKQXQTCG
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_36436_PRTPIEBESHURNGEO
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -103,7 +101,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 29284
+VSCODE_PID = 36436
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -171,10 +169,11 @@ ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
 USERDOMAIN = XWSHEN-MATEBOOK
 # 'override' directive
-GNUMAKE 
-FLAGS := 
+GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -317,6 +316,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Mon Mar 03 15:49:54 2025
+# Finished Make data base on Wed Mar 05 18:17:55 2025
 
  
