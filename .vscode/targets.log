@@ -8,10 +8,12 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Mar 12 10:21:54 2025
+# Make data base, printed on Mon Apr 07 17:26:17 2025
 
 # Variables
 
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -19,13 +21,13 @@ LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
 # environment
-LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.16\resources\app\git
+LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.18\resources\app\git
 # environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
-VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.16
+VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.4.18
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -39,7 +41,9 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_44676_KYKEMLTUDUYSQCVO
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22808_UOQEHNVOQAKRTULL
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -53,7 +57,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\6609ac3d66f4eade5cf376d1cb76f13985724bcb
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\4437686ffebaf200fa4a6e6e67f735f3edf24ada
 # environment
 LANG = C
 # default
@@ -69,11 +73,11 @@ MAKEFLAGS = pqrR
 # environment
 INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 # environment
+EFC_6368 = 1
+# environment
 ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
-# environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
 # environment
@@ -97,7 +101,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 44676
+VSCODE_PID = 22808
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -161,8 +165,6 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # automatic
 +F = $(notdir $+)
 # environment
-EFC_5732 = 1
-# environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
 USERDOMAIN = XWSHEN-MATEBOOK
@@ -195,7 +197,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.98.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.99.0-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -217,7 +219,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=102/1024=10%, Rehash=0, Collisions=11/130=8%
+# Load=103/1024=10%, Rehash=0, Collisions=11/131=8%
 
 # Pattern-specific Variable Values
 
@@ -312,6 +314,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Mar 12 10:21:54 2025
+# Finished Make data base on Mon Apr 07 17:26:17 2025
 
  
