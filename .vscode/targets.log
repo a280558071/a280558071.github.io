@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Apr 09 09:45:28 2025
+# Make data base, printed on Wed Apr 09 17:17:09 2025
 
 # Variables
 
@@ -38,8 +38,6 @@ PROCESSOR_LEVEL = 6
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
-# environment
-APPLICATIONINSIGHTS_CONFIGURATION_CONTENT = {}
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
@@ -80,8 +78,6 @@ EFC_6368 = 1
 ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
-# environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
 # environment
@@ -215,7 +211,8 @@ SESSIONNAME = Console
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver output-sync load dospaths
 # environment
-MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\intel64_win_mic
+MIC_LD_LIBRARY_PATH =  
+C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\intel64_win_mic
 # environment
 PROCESSOR_REVISION = ba02
 # environment
@@ -223,7 +220,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=105/1024=10%, Rehash=0, Collisions=12/133=9%
+# Load=103/1024=10%, Rehash=0, Collisions=11/131=8%
 
 # Pattern-specific Variable Values
 
@@ -318,6 +315,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Apr 09 09:45:28 2025
+# Finished Make data base on Wed Apr 09 17:17:09 2025
 
  
