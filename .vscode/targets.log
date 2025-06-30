@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Jun 25 23:13:21 2025
+# Make data base, printed on Mon Jun 30 16:34:08 2025
 
 # Variables
 
@@ -19,13 +19,13 @@ SYSTEMDRIVE = C:
 # environment
 LC_ALL = C
 # environment
-EFC_13812_3789132940 = 1
-# environment
 USERPROFILE = C:\Users\shenx
 # environment
 LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.0\resources\app\git
 # environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
+# environment
+EFC_12108_2283032206 = 1
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
@@ -43,7 +43,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33860_MWJHYBOHVDOYZQSN
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_26296_IGAPWUNBDTCXYQFT
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -103,9 +103,11 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 33860
+VSCODE_PID = 26296
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+EFC_12108_1592913036 = 1
 # automatic
 *F = $(notdir $*)
 # automatic
@@ -114,6 +116,8 @@ VSCODE_PID = 33860
 VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
 # default
 MAKE_HOST := Windows32
+# environment
+EFC_12108_3789132940 = 1
 # environment
 PROGRAMDATA = C:\ProgramData
 # default
@@ -160,6 +164,8 @@ USERNAME = shenx
 EMULATOR_AVD_ROOT = D:\Program Files\MobileAppEngine\emui
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# environment
+EFC_12108_2775293581 = 1
 # automatic
 ?F = $(notdir $?)
 # environment
@@ -176,10 +182,6 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-__COMPAT_LAYER = DetectorsAppHealth
-# environment
-EFC_13812_2283032206 = 1
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -199,8 +201,6 @@ APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
 HOMEDRIVE = C:
 # environment
-EFC_13812_2775293581 = 1
-# environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
@@ -210,8 +210,6 @@ ELECTRON_RUN_AS_NODE = 1
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
 VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.100.3-main-sock
-# environment
-EFC_13812_1592913036 = 1
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -223,7 +221,7 @@ ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
 # environment
-EFC_13812_1262719628 = 1
+EFC_12108_1262719628 = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver output-sync load dospaths
 # environment
@@ -235,7 +233,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=111/1024=11%, Rehash=0, Collisions=12/139=9%
+# Load=110/1024=11%, Rehash=0, Collisions=12/138=9%
 
 # Pattern-specific Variable Values
 
@@ -330,6 +328,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Jun 25 23:13:21 2025
+# Finished Make data base on Mon Jun 30 16:34:08 2025
 
  
