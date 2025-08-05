@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Jul 16 16:31:16 2025
+# Make data base, printed on Tue Aug 05 10:10:09 2025
 
 # Variables
 
@@ -20,8 +20,6 @@ SYSTEMDRIVE = C:
 LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
-# environment
-EFC_12384_1592913036 = 1
 # environment
 LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.1\resources\app\git
 # environment
@@ -43,7 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23192_ZXZKQZPCACLUINQY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12632_VCSTIBJPDCSXZPBT
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -59,9 +57,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\cb0c47c0cfaad0757385834bd89d410c78a856c0
-# environment
-EFC_12384_2283032206 = 1
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\488a1f239235055e34e673291fb8d8c810886f81
 # environment
 LANG = C
 # default
@@ -78,6 +74,10 @@ MAKEFLAGS = pqrR
 INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 # environment
 ONEDRIVE = C:\Users\shenx\OneDrive
+# environment
+EFC_10888_3789132940 = 1
+# environment
+EFC_10888_1592913036 = 1
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
@@ -103,9 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 23192
-# environment
-EFC_12384_3789132940 = 1
+VSCODE_PID = 12632
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -135,7 +133,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama
+PATH = D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Git\cmd;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama;D:\Users\shenx\AppData\Local\Programs\CodeBuddy\bin
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
@@ -154,6 +152,8 @@ CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
+# environment
+EFC_10888_1262719628 = 1
 # environment
 USERNAME = shenx
 # environment
@@ -176,14 +176,10 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-EFC_12384_1262719628 = 1
 # makefile
 .DEFAULT_GOAL := update
 # default
 MAKE_VERSION := 4.4.1
-# environment
-EFC_12384_2775293581 = 1
 # environment
 PROGRAMFILES(X86) = C:\Program Files (x86)
 # environment
@@ -201,13 +197,15 @@ HOMEDRIVE = C:
 # environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
+EFC_10888_2775293581 = 1
+# environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.102.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.102.3-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -218,6 +216,8 @@ SUFFIXES :=
 ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
+# environment
+EFC_10888_2283032206 = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver output-sync load dospaths
 # environment
@@ -324,6 +324,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Jul 16 16:31:16 2025
+# Finished Make data base on Tue Aug 05 10:10:09 2025
 
  
