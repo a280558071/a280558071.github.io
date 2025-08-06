@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Aug 05 10:10:09 2025
+# Make data base, printed on Wed Aug 06 08:53:24 2025
 
 # Variables
 
@@ -80,6 +80,8 @@ EFC_10888_3789132940 = 1
 EFC_10888_1592913036 = 1
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
 # environment
@@ -229,7 +231,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=108/1024=11%, Rehash=0, Collisions=11/136=8%
+# Load=109/1024=11%, Rehash=0, Collisions=12/137=9%
 
 # Pattern-specific Variable Values
 
@@ -324,6 +326,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Tue Aug 05 10:10:09 2025
+# Finished Make data base on Wed Aug 06 08:53:24 2025
 
  
