@@ -8,20 +8,18 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Aug 27 10:06:13 2025
+# Make data base, printed on Sun Sep 07 13:46:48 2025
 
 # Variables
 
-# environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
-# environment
-EFC_29892_3789132940 = 1
 # environment
 SYSTEMDRIVE = C:
 # environment
 LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
+# environment
+EFC_9968_1262719628 = 1
 # environment
 LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.2\resources\app\git
 # environment
@@ -43,11 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-EFC_29892_2775293581 = 1
-# environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_37916_CVKDQGQSKFKITKHW
-# environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23520_SCKALBXOJDIWXRKQ
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -61,7 +55,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\360a4e4fd251bfce169a4ddf857c7d25d1ad40da
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\6f17636121051a53c88d3e605c491d22af2ba755
 # environment
 LANG = C
 # default
@@ -98,8 +92,6 @@ MFLAGS = -pqrR
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
-# environment
-EFC_29892_1262719628 = 1
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST := Makefile
 # automatic
@@ -107,7 +99,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 37916
+VSCODE_PID = 23520
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -131,11 +123,7 @@ DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 # environment
 COMSPEC = C:\WINDOWS\system32\cmd.exe
 # environment
-EFC_29892_2397410445 = 1
-# environment
 WINDIR = C:\WINDOWS
-# environment
-EFC_29892_344590478 = 1
 # environment
 MAKELEVEL := 0
 # default
@@ -171,8 +159,6 @@ COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
-EFC_29892_1592913036 = 1
-# environment
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # automatic
 +F = $(notdir $+)
@@ -184,7 +170,8 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# makefile
+# mak 
+efile
 .DEFAULT_GOAL := update
 # default
 MAKE_VERSION := 4.4.1
@@ -199,11 +186,15 @@ PUBLIC = C:\Users\Public
 # environment
 ASL.LOG = Destination=file
 # environment
+EFC_9968_3789132940 = 1
+# environment
 APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
 HOMEDRIVE = C:
 # environment
 PROCESSOR_ARCHITECTURE = x86
+# environment
+EFC_9968_2283032206 = 1
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
@@ -211,9 +202,9 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.103.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.103.2-main-sock
 # environment
-EFC_29892_2283032206 = 1
+EFC_9968_2775293581 = 1
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -233,9 +224,11 @@ PROCESSOR_REVISION = ba02
 # environment
 VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
+EFC_9968_1592913036 = 1
+# environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=111/1024=11%, Rehash=0, Collisions=16/139=12%
+# Load=107/1024=10%, Rehash=0, Collisions=11/135=8%
 
 # Pattern-specific Variable Values
 
@@ -330,6 +323,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Wed Aug 27 10:06:13 2025
+# Finished Make data base on Sun Sep 07 13:46:48 2025
 
  
