@@ -8,18 +8,18 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Sep 09 13:42:51 2025
+# Make data base, printed on Sat Sep 13 14:31:34 2025
 
 # Variables
 
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
 LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
-# environment
-EFC_9968_1262719628 = 1
 # environment
 LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.2\resources\app\git
 # environment
@@ -33,6 +33,8 @@ CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
 SYSTEMROOT = C:\WINDOWS
 # environment
+EFC_12412_1592913036 = 1
+# environment
 PROCESSOR_LEVEL = 6
 # environment
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
@@ -41,7 +43,9 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_23504_JOTSLFVBBPKITUWB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19768_RFWCRRDQZNQCIVNM
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -78,6 +82,8 @@ CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -97,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 23504
+VSCODE_PID = 19768
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -143,6 +149,10 @@ PROMPT = $P$G
 # environment
 CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
+EFC_12412_3789132940 = 1
+# environment
+EFC_12412_2283032206 = 1
+# environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
@@ -173,6 +183,8 @@ OS = Windows_NT
 # default
 MAKE_VERSION := 4.4.1
 # environment
+EFC_12412_2775293581 = 1
+# environment
 PROGRAMFILES(X86) = C:\Program Files (x86)
 # environment
 USERDOMAIN_ROAMINGPROFILE = XWSHEN-MATEBOOK
@@ -183,15 +195,13 @@ PUBLIC = C:\Users\Public
 # environment
 ASL.LOG = Destination=file
 # environment
-EFC_9968_3789132940 = 1
-# environment
 APPDATA = C:\Users\shenx\AppData\Roaming
+# environment
+EFC_12412_1262719628 = 1
 # environment
 HOMEDRIVE = C:
 # environment
 PROCESSOR_ARCHITECTURE = x86
-# environment
-EFC_9968_2283032206 = 1
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
@@ -200,8 +210,6 @@ ELECTRON_RUN_AS_NODE = 1
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
 VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.103.2-main-sock
-# environment
-EFC_9968_2775293581 = 1
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -219,13 +227,14 @@ MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries
 # environment
 PROCESSOR_REVISION = ba02
 # environment
+EFC_12412_2397410445 = 1
+# environ 
+ment
 VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
-# environment
-EFC_9968_1592913036 = 1
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=106/1024=10%, Rehash=0, Collisions=10/134=7%
+# Load=110/1024=11%, Rehash=0, Collisions=13/138=9%
 
 # Pattern-specific Variable Values
 
@@ -320,6 +329,6 @@ all:
 # strcache performance: lookups = 58 / hit rate = 31%
 # hash-table stats:
 # Load=40/8192=0%, Rehash=0, Collisions=0/58=0%
-# Finished Make data base on Tue Sep 09 13:42:51 2025
+# Finished Make data base on Sat Sep 13 14:31:34 2025
 
  
