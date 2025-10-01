@@ -9,3 +9,5 @@ build
 MANIFEST
 jo
 stage/
+shenxinwei_scopus_202509.csv
+rwdb_filter_and_link.py
