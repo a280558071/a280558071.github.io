@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Oct 01 10:38:10 2025
+# Make data base, printed on Wed Oct 01 10:43:32 2025
 
 # Variables
 
@@ -82,6 +82,8 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -231,7 +233,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=109/1024=11%, Rehash=0, Collisions=12/137=9%
+# Load=110/1024=11%, Rehash=0, Collisions=13/138=9%
 
 # Pattern-specific Variable Values
 
@@ -326,6 +328,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Wed Oct 01 10:38:10 2025
+# Finished Make data base on Wed Oct 01 10:43:32 2025
 
  
