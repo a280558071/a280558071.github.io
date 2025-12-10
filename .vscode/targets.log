@@ -8,12 +8,10 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Nov 06 10:54:50 2025
+# Make data base, printed on Tue Dec 09 14:52:03 2025
 
 # Variables
 
-# environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -21,13 +19,13 @@ LC_ALL = C
 # environment
 USERPROFILE = C:\Users\shenx
 # environment
-LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.3\resources\app\git
+LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.4\resources\app\git
 # environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
-VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.3
+VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.4
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -41,9 +39,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_40428_DDRRSYYDYZGEXMQQ
-# environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_37548_VIQJANXAALFDCDQO
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -57,9 +53,11 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\7d842fb85a0275a4a8e4d7e040d2625abbf7f084
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61
 # environment
 LANG = C
+# environment
+EFC_9272_344590478 = 1
 # default
 .LOADED := 
 # environment
@@ -76,6 +74,8 @@ INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
 # environment
@@ -99,15 +99,11 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 40428
+VSCODE_PID = 37548
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
-# environment
-EFC_12728_1592913036 = 1
 # automatic
 *F = $(notdir $*)
-# environment
-EFC_12728_3789132940 = 1
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
@@ -149,8 +145,6 @@ PROMPT = $P$G
 # environment
 CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
-EFC_12728_1262719628 = 1
-# environment
 APPLICATION_INSIGHTS_NO_STATSBEAT = true
 # environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
@@ -178,10 +172,10 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+__COMPAT_LAYER = DetectorsAppHealth
 # makefile
 .DEFAULT_GOAL := update
-# environment
-EFC_12728_2283032206 = 1
 # default
 MAKE_VERSION := 4.4.1
 # environment
@@ -195,7 +189,7 @@ PUBLIC = C:\Users\Public
 # environment
 ASL.LOG = Destination=file
 # environment
-EFC_12728_2775293581 = 1
+EFC_9272_1592913036 = 1
 # environment
 APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
@@ -205,11 +199,13 @@ PROCESSOR_ARCHITECTURE = x86
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
+EFC_9272_2397410445 = 1
+# environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.105.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.106.3-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -231,7 +227,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=109/1024=11%, Rehash=0, Collisions=11/137=8%
+# Load=107/1024=10%, Rehash=0, Collisions=11/135=8%
 
 # Pattern-specific Variable Values
 
@@ -326,6 +322,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Thu Nov 06 10:54:50 2025
+# Finished Make data base on Tue Dec 09 14:52:03 2025
 
  
