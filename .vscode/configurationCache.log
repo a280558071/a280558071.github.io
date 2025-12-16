@@ -1,1 +1,1 @@
-{"buildTargets":[".PHONY","clean","docs","realupdate","update","wwws"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
+{"buildTargets":[".PHONY","clean","docs","realupdate","s","update","wwws"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

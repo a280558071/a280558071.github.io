@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Dec 16 14:30:36 2025
+# Make data base, printed on Tue Dec 16 14:31:50 2025
 
 # Variables
 
@@ -41,7 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_34840_JVVKIDMHHLUAHMSL
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33700_SESGTELFORHNDFLY
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -59,7 +59,7 @@ EFC_13208_1592913036 = 1
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\bf9252a2fb45be6893dd8870c0bf37e2e1766d61
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\618725e67565b290ba4da6fe2d29f8fa1d4e3622
 # environment
 LANG = C
 # default
@@ -95,7 +95,8 @@ MFLAGS = -pqrR
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # automatic
-+D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
++D = $(patsubst %/,%,$(pat 
+subst %\,%,$(dir $+)))
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST := Makefile
 # automatic
@@ -103,7 +104,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 34840
+VSCODE_PID = 33700
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -203,7 +204,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.106.3-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.107.0-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -306,7 +307,8 @@ all:
 #  Modification time never checked.
 #  File has not been updated.
 
-# files hash-table stats:
+# files hash-table stat 
+s:
 # Load=10/1024=1%, Rehash=0, Collisions=0/31=0%
 # VPATH Search Paths
 
@@ -320,6 +322,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Tue Dec 16 14:30:36 2025
+# Finished Make data base on Tue Dec 16 14:31:50 2025
 
  
