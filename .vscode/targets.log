@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Dec 16 14:31:50 2025
+# Make data base, printed on Wed Jan 07 10:27:11 2026
 
 # Variables
 
@@ -41,7 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33700_SESGTELFORHNDFLY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33276_UUVYZOIBBEKIULEB
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -52,14 +52,12 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
 # environment
 IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAAQZgAAAAEAACAAAAA6j5QacIJWnIUOPL6sssABFORW52l8qSymCyMJ0ERwcAAAAAAOgAAAAAIAACAAAADSWUDV8o95gSD4bMS3uuSPbq4qhjHr9A/thTXMGYaaYGAAAACgSuItL6B/1iJkp6QScL0KycPUwtgQ+5ZgRUZ/wHzYMnQC9uPSf1yNBCmUkFqKbtIlwoOcUvEZvHjEdKCydPbgVePRib3/MhNaDCXYxjrZFARNoQoSm4GOFQTNLgFJFd5AAAAAuKcYDwvg9LrRVhKcyCNFU9Sj1zRqSgrkK55E0ke7B5yJhuFy28pLHZF7sqBhWDX+I12gbwXmOOAYOmKuN2eS2Q==
-# environment
-EFC_13208_1592913036 = 1
 # automatic
 ^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\618725e67565b290ba4da6fe2d29f8fa1d4e3622
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\994fd12f8d3a5aa16f17d42c041e5809167e845a
 # environment
 LANG = C
 # default
@@ -79,11 +77,7 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
-# environment
 GUROBI_HOME = D:\gurobi1200\win64
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -94,9 +88,10 @@ MFLAGS = -pqrR
 .SHELLFLAGS := -c
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+EFC_10136_1592913036 = 1
 # automatic
-+D = $(patsubst %/,%,$(pat 
-subst %\,%,$(dir $+)))
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST := Makefile
 # automatic
@@ -104,7 +99,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 33700
+VSCODE_PID = 33276
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -119,6 +114,8 @@ MAKE_HOST := Windows32
 PROGRAMDATA = C:\ProgramData
 # default
 SHELL := sh.exe
+# environment
+EFC_10136_1262719628 = 1
 # environment
 HOMEPATH = \Users\shenx
 # default
@@ -164,6 +161,8 @@ COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # automatic
 ?F = $(notdir $?)
 # environment
+EFC_10136_3789132940 = 1
+# environment
 PROGRAMW6432 = C:\Program Files
 # environment
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
@@ -177,6 +176,8 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+EFC_10136_2775293581 = 1
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -196,7 +197,11 @@ APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
 HOMEDRIVE = C:
 # environment
+EFC_10136_344590478 = 1
+# environment
 PROCESSOR_ARCHITECTURE = x86
+# environment
+EFC_10136_2283032206 = 1
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
@@ -204,7 +209,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.107.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.107.1-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -226,7 +231,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=106/1024=10%, Rehash=0, Collisions=12/134=9%
+# Load=109/1024=11%, Rehash=0, Collisions=11/137=8%
 
 # Pattern-specific Variable Values
 
@@ -307,8 +312,7 @@ all:
 #  Modification time never checked.
 #  File has not been updated.
 
-# files hash-table stat 
-s:
+# files hash-table stats:
 # Load=10/1024=1%, Rehash=0, Collisions=0/31=0%
 # VPATH Search Paths
 
@@ -322,6 +326,6 @@ s:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Tue Dec 16 14:31:50 2025
+# Finished Make data base on Wed Jan 07 10:27:11 2026
 
  
