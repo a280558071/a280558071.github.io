@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Jan 07 10:27:11 2026
+# Make data base, printed on Sun Jan 18 09:35:47 2026
 
 # Variables
 
@@ -41,7 +41,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_33276_UUVYZOIBBEKIULEB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1396_MJBGKCTSLYRZPRXS
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -59,6 +59,8 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\994fd12f8d3a5aa16f17d42c041e5809167e845a
 # environment
+EFC_11736_3789132940 = 1
+# environment
 LANG = C
 # default
 .LOADED := 
@@ -71,6 +73,8 @@ PROCESSOR_ARCHITEW6432 = AMD64
 # makefile
 MAKEFLAGS = pqrR
 # environment
+EFC_11736_2283032206 = 1
+# environment
 INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 # environment
 ONEDRIVE = C:\Users\shenx\OneDrive
@@ -78,6 +82,8 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
 GUROBI_HOME = D:\gurobi1200\win64
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -88,8 +94,6 @@ MFLAGS = -pqrR
 .SHELLFLAGS := -c
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
-# environment
-EFC_10136_1592913036 = 1
 # automatic
 +D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
 # makefile (from 'Makefile', line 1)
@@ -99,7 +103,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 33276
+VSCODE_PID = 1396
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -111,11 +115,11 @@ VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":
 # default
 MAKE_HOST := Windows32
 # environment
+EFC_11736_2775293581 = 1
+# environment
 PROGRAMDATA = C:\ProgramData
 # default
 SHELL := sh.exe
-# environment
-EFC_10136_1262719628 = 1
 # environment
 HOMEPATH = \Users\shenx
 # default
@@ -149,6 +153,8 @@ CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
 APPLICATION_INSIGHTS_NO_STATSBEAT = true
 # environment
+EFC_11736_1592913036 = 1
+# environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
@@ -161,13 +167,13 @@ COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # automatic
 ?F = $(notdir $?)
 # environment
-EFC_10136_3789132940 = 1
-# environment
 PROGRAMW6432 = C:\Program Files
 # environment
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # automatic
 +F = $(notdir $+)
+# environment
+EFC_11736_1262719628 = 1
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
@@ -176,8 +182,6 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-EFC_10136_2775293581 = 1
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -197,11 +201,7 @@ APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
 HOMEDRIVE = C:
 # environment
-EFC_10136_344590478 = 1
-# environment
 PROCESSOR_ARCHITECTURE = x86
-# environment
-EFC_10136_2283032206 = 1
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
@@ -231,7 +231,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=109/1024=11%, Rehash=0, Collisions=11/137=8%
+# Load=109/1024=11%, Rehash=0, Collisions=13/137=9%
 
 # Pattern-specific Variable Values
 
@@ -326,6 +326,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Wed Jan 07 10:27:11 2026
+# Finished Make data base on Sun Jan 18 09:35:47 2026
 
  
