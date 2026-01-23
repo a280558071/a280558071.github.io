@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Jan 18 15:00:27 2026
+# Make data base, printed on Fri Jan 23 12:30:00 2026
 
 # Variables
 
@@ -38,12 +38,10 @@ PROCESSOR_LEVEL = 6
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
-# environment
-APPLICATIONINSIGHTS_CONFIGURATION_CONTENT = {}
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_26992_WFTCMHIWPBRDXGRX
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_36260_LJPVAISSKGIAVKLC
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -103,7 +101,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 26992
+VSCODE_PID = 36260
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -162,6 +160,8 @@ EFC_12628_2283032206 = 1
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
+# environment
+EFC_12628_344590478 = 1
 # environment
 USERNAME = shenx
 # environment
@@ -330,6 +330,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Sun Jan 18 15:00:27 2026
+# Finished Make data base on Fri Jan 23 12:30:00 2026
 
  
