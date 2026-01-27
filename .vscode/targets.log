@@ -8,12 +8,10 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jan 23 12:30:00 2026
+# Make data base, printed on Tue Jan 27 10:32:24 2026
 
 # Variables
 
-# environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -41,9 +39,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_36260_LJPVAISSKGIAVKLC
-# environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_45604_QNEUZTQLLQYPIBJO
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -57,7 +53,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\585eba7c0c34fd6b30faac7c62a42050bfbc0086
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\c9d77990917f3102ada88be140d28b038d1dd7c7
 # environment
 LANG = C
 # default
@@ -77,11 +73,7 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
-# environment
 GUROBI_HOME = D:\gurobi1200\win64
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -101,7 +93,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 36260
+VSCODE_PID = 45604
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -109,9 +101,9 @@ VSCODE_PID = 36260
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
-VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+BUILDLABEX = 26100.1.amd64fre.ge_release.240331-1435
 # environment
-EFC_12628_1262719628 = 1
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
 # default
 MAKE_HOST := Windows32
 # environment
@@ -128,8 +120,6 @@ DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 COMSPEC = C:\WINDOWS\system32\cmd.exe
 # environment
 WINDIR = C:\WINDOWS
-# environment
-EFC_12628_2775293581 = 1
 # environment
 MAKELEVEL := 0
 # default
@@ -155,13 +145,9 @@ APPLICATION_INSIGHTS_NO_STATSBEAT = true
 # environment
 EFC_12628_1592913036 = 1
 # environment
-EFC_12628_2283032206 = 1
-# environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
-# environment
-EFC_12628_344590478 = 1
 # environment
 USERNAME = shenx
 # environment
@@ -191,8 +177,6 @@ MAKE_VERSION := 4.4.1
 # environment
 PROGRAMFILES(X86) = C:\Program Files (x86)
 # environment
-EFC_12628_3789132940 = 1
-# environment
 USERDOMAIN_ROAMINGPROFILE = XWSHEN-MATEBOOK
 # environment
 NUMBER_OF_PROCESSORS = 16
@@ -200,6 +184,8 @@ NUMBER_OF_PROCESSORS = 16
 PUBLIC = C:\Users\Public
 # environment
 ASL.LOG = Destination=file
+# environment
+BUILDLAB = 26100.ge_release.240331-1435
 # environment
 APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
@@ -213,7 +199,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.108.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.108.2-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -235,7 +221,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=111/1024=11%, Rehash=0, Collisions=12/139=9%
+# Load=104/1024=10%, Rehash=0, Collisions=9/132=7%
 
 # Pattern-specific Variable Values
 
@@ -330,6 +316,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Fri Jan 23 12:30:00 2026
+# Finished Make data base on Tue Jan 27 10:32:24 2026
 
  
