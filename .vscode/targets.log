@@ -8,10 +8,12 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Jan 27 10:32:24 2026
+# Make data base, printed on Sat Jan 31 11:04:04 2026
 
 # Variables
 
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -39,7 +41,9 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_45604_QNEUZTQLLQYPIBJO
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1916_VOQXKWRPRVARBTOH
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -73,7 +77,9 @@ ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
-GUROBI_HOME = D:\gurobi1200\win64
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+GUROBI_HOME = D:\gurobi1301\win64
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -93,7 +99,9 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 45604
+VSCODE_PID = 1916
+# environment
+EFC_13368_2775293581 = 1
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -101,9 +109,9 @@ VSCODE_PID = 45604
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
-BUILDLABEX = 26100.1.amd64fre.ge_release.240331-1435
-# environment
 VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+# environment
+EFC_13368_1592913036 = 1
 # default
 MAKE_HOST := Windows32
 # environment
@@ -125,7 +133,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;D:\Program Files\copt72\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama;D:\Users\shenx\AppData\Local\Programs\CodeBuddy\bin
+PATH = D:\gurobi1301\win64\bin;D:\Program Files\copt80\bin;D:\gurobi1200\win64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama;D:\Users\shenx\AppData\Local\Programs\CodeBuddy\bin
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
@@ -143,19 +151,21 @@ CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
 APPLICATION_INSIGHTS_NO_STATSBEAT = true
 # environment
-EFC_12628_1592913036 = 1
-# environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
 # environment
 USERNAME = shenx
 # environment
+EFC_13368_3789132940 = 1
+# environment
 EMULATOR_AVD_ROOT = D:\Program Files\MobileAppEngine\emui
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # automatic
 ?F = $(notdir $?)
+# environment
+EFC_13368_2283032206 = 1
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
@@ -168,6 +178,8 @@ ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 USERDOMAIN = XWSHEN-MATEBOOK
 # 'override' directive
 GNUMAKEFLAGS := 
+# environment
+EFC_13368_1262719628 = 1
 # environment
 OS = Windows_NT
 # makefile
@@ -184,8 +196,6 @@ NUMBER_OF_PROCESSORS = 16
 PUBLIC = C:\Users\Public
 # environment
 ASL.LOG = Destination=file
-# environment
-BUILDLAB = 26100.ge_release.240331-1435
 # environment
 APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
@@ -221,7 +231,7 @@ VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=104/1024=10%, Rehash=0, Collisions=9/132=7%
+# Load=109/1024=11%, Rehash=0, Collisions=11/137=8%
 
 # Pattern-specific Variable Values
 
@@ -316,6 +326,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Tue Jan 27 10:32:24 2026
+# Finished Make data base on Sat Jan 31 11:04:04 2026
 
  
