@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Mar 11 21:24:44 2026
+# Make data base, printed on Sun Mar 29 11:02:24 2026
 
 # Variables
 
@@ -19,15 +19,19 @@ SYSTEMDRIVE = C:
 # environment
 LC_ALL = C
 # environment
+EFC_12748_3789132940 = 1
+# environment
 USERPROFILE = C:\Users\shenx
 # environment
-LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.5\resources\app\git
+LOCAL_GIT_DIRECTORY = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.6\resources\app\git
 # environment
 LOCALAPPDATA = C:\Users\shenx\AppData\Local
 # environment
 VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
 # environment
-VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.5
+EFC_12748_2775293581 = 1
+# environment
+VSCODE_CWD = C:\Users\shenx\AppData\Local\GitHubDesktop\app-3.5.6
 # environment
 CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
 # environment
@@ -41,7 +45,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_40832_YKRKFLRUCAHAPOHJ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_2972_FLHXFWCYQUZDABNH
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -57,7 +61,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\0870c2a0c7c0564e7631bfed2675573a94ba4455
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\cfbea10c5ffb233ea9177d34726e6056e89913dc
 # environment
 LANG = C
 # default
@@ -76,8 +80,6 @@ INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 ONEDRIVE = C:\Users\shenx\OneDrive
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
-# environment
-EFC_13964_1262719628 = 1
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -101,17 +103,17 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 40832
+EFC_12748_2283032206 = 1
+# environment
+VSCODE_PID = 2972
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
-# environment
-EFC_13964_3789132940 = 1
 # automatic
 *F = $(notdir $*)
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
-VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\0870c2a0c7\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\cfbea10c5f\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
 # default
 MAKE_HOST := Windows32
 # environment
@@ -140,6 +142,8 @@ ZES_ENABLE_SYSMAN = 1
 COMPUTERNAME = XWSHEN-MATEBOOK
 # default
 MAKEFILES := 
+# environment
+EFC_12748_1262719628 = 1
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -149,17 +153,11 @@ PROMPT = $P$G
 # environment
 CHOCOLATEYLASTPATHUPDATE = 133674988430352002
 # environment
-APPLICATION_INSIGHTS_NO_STATSBEAT = true
-# environment
-EFC_13964_1592913036 = 1
-# environment
 LOGONSERVER = \\XWSHEN-MATEBOOK
 # environment
 OLLAMA_MODELS = D:\OllamaLib
 # environment
 USERNAME = shenx
-# environment
-EFC_13964_2775293581 = 1
 # environment
 EMULATOR_AVD_ROOT = D:\Program Files\MobileAppEngine\emui
 # environment
@@ -178,6 +176,8 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
+# environment
+__COMPAT_LAYER = RunAsInvoker
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -205,19 +205,17 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.110.0-main-sock
-# environment
-EFC_13964_2283032206 = 1
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.113.0-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
 <F = $(notdir $<)
+# environment
+EFC_12748_1592913036 = 1
 # default
 SUFFIXES := 
 # environment
 ALLUSERSPROFILE = C:\ProgramData
-# environment
-EFC_13964_344590478 = 1
 # environment
 SESSIONNAME = Console
 # default
@@ -229,9 +227,10 @@ PROCESSOR_REVISION = ba02
 # environment
 VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 St 
+epping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=109/1024=11%, Rehash=0, Collisions=11/137=8%
+# Load=108/1024=11%, Rehash=0, Collisions=14/136=10%
 
 # Pattern-specific Variable Values
 
@@ -268,8 +267,7 @@ realupdate:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  recipe to execute (from 'Makefile', line 7) 
-:
+#  recipe to execute (from 'Makefile', line 7):
 	@make -C www realupdate
 
 docs:
@@ -327,6 +325,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Wed Mar 11 21:24:44 2026
+# Finished Make data base on Sun Mar 29 11:02:24 2026
 
  
