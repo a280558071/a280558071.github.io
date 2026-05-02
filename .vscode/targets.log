@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat May 02 13:39:22 2026
+# Make data base, printed on Sat May 02 16:31:52 2026
 
 # Variables
 
@@ -45,7 +45,7 @@ OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT = true
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1052_AYKNIOGDBHPCWMNB
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_36248_JOTVVNILSDHTPBLK
 # environment
 COPILOT_OTEL_EXPORTER_TYPE = file
 # environment
@@ -67,7 +67,7 @@ IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAA
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\10c8e557c8b9f9ed0a87f61f1c9a44bde731c409
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\034f571df509819cc10b0c8129f66ef77a542f0e
 # environment
 LANG = C
 # default
@@ -90,8 +90,6 @@ EFC_12848_1592913036 = 1
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
 GUROBI_HOME = D:\gurobi1301\win64
-# environment
-VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -113,7 +111,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 1052
+VSCODE_PID = 36248
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -121,7 +119,7 @@ VSCODE_PID = 1052
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
-VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\10c8e557c8\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\034f571df5\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
 # default
 MAKE_HOST := Windows32
 # environment
@@ -187,7 +185,7 @@ GNUMAKEFLAGS :=
 # environment
 OS = Windows_NT
 # environment
-__COMPAT_LAYER = DetectorsAppHealth
+__COMPAT_LAYER = RunAsInvoker
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -217,7 +215,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.117.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.118.1-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -243,7 +241,7 @@ EFC_12848_3789132940 = 1
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=115/1024=11%, Rehash=0, Collisions=14/143=10%
+# Load=114/1024=11%, Rehash=0, Collisions=13/142=9%
 
 # Pattern-specific Variable Values
 
@@ -338,6 +336,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Sat May 02 13:39:22 2026
+# Finished Make data base on Sat May 02 16:31:52 2026
 
  
