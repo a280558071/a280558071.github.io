@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat May 02 16:31:52 2026
+# Make data base, printed on Wed May 13 17:04:20 2026
 
 # Variables
 
@@ -36,16 +36,16 @@ SYSTEMROOT = C:\WINDOWS
 PROCESSOR_LEVEL = 6
 # environment
 PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# environment
+EFC_12996_2946480783 = 1
 # default
 MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
-# environment
-EFC_12848_2283032206 = 1
 # environment
 OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT = true
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_36248_JOTVVNILSDHTPBLK
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_21380_LREONOAXITDAACSJ
 # environment
 COPILOT_OTEL_EXPORTER_TYPE = file
 # environment
@@ -57,17 +57,13 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
 # environment
-EFC_12848_1262719628 = 1
-# environment
-EFC_12848_4126798990 = 1
-# environment
 IGCCSVC_DB = AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAURD4xTzV4k2j/vISdX3L6gQAAAACAAAAAAAQZgAAAAEAACAAAAA6j5QacIJWnIUOPL6sssABFORW52l8qSymCyMJ0ERwcAAAAAAOgAAAAAIAACAAAADSWUDV8o95gSD4bMS3uuSPbq4qhjHr9A/thTXMGYaaYGAAAACgSuItL6B/1iJkp6QScL0KycPUwtgQ+5ZgRUZ/wHzYMnQC9uPSf1yNBCmUkFqKbtIlwoOcUvEZvHjEdKCydPbgVePRib3/MhNaDCXYxjrZFARNoQoSm4GOFQTNLgFJFd5AAAAAuKcYDwvg9LrRVhKcyCNFU9Sj1zRqSgrkK55E0ke7B5yJhuFy28pLHZF7sqBhWDX+I12gbwXmOOAYOmKuN2eS2Q==
 # automatic
 ^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\034f571df509819cc10b0c8129f66ef77a542f0e
+VSCODE_CODE_CACHE_PATH = C:\Users\shenx\AppData\Roaming\Code\CachedData\0958016b2af9f09bb4257e0df4a95e2f90590f9f
 # environment
 LANG = C
 # default
@@ -85,7 +81,7 @@ INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
 # environment
 ONEDRIVE = C:\Users\shenx\OneDrive
 # environment
-EFC_12848_1592913036 = 1
+EFC_12996_4126798990 = 1
 # makefile
 CURDIR := c:/Users/shenx/Documents/GitHub/tsigs-ories.github.io
 # environment
@@ -111,7 +107,7 @@ MAKEFILE_LIST := Makefile
 # environment
 EMULATOR_SDK_ROOT = C:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
-VSCODE_PID = 36248
+VSCODE_PID = 21380
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -119,19 +115,19 @@ VSCODE_PID = 36248
 # automatic
 <D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
 # environment
-VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\034f571df5\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"zh-cn","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\shenx\\AppData\\Local\\Programs\\Microsoft VS Code\\0958016b2a\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
 # default
 MAKE_HOST := Windows32
 # environment
 PROGRAMDATA = C:\ProgramData
-# environment
-EFC_12848_2775293581 = 1
 # default
 SHELL := sh.exe
 # environment
 HOMEPATH = \Users\shenx
 # default
 MAKECMDGOALS := all
+# environment
+EFC_12996_3789132940 = 1
 # environment
 DRIVERDATA = C:\Windows\System32\Drivers\DriverData
 # environment
@@ -146,6 +142,8 @@ MAKE = $(MAKE_COMMAND)
 PATH = D:\gurobi1301\win64\bin;D:\Program Files\copt80\bin;C:\Program Files (x86)\Common Files\Intel\Shared Files\fortran\bin\Intel64;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\bin;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;D:\Users\shenx\anaconda3;D:\Users\shenx\anaconda3\Library\bin;D:\Users\shenx\anaconda3\Scripts;D:\Program Files\MATLAB\R2023b\bin;D:\Program Files\MATLAB\R2023a\runtime\win64;D:\Program Files\MATLAB\R2023a\bin;D:\Program Files\CMake\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\IDM Computer Solutions\UltraEdit;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\shenx\AppData\Local\Microsoft\WindowsApps;C:\Users\shenx\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shenx\AppData\Local\GitHubDesktop\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Python 3.9;D:\Program Files\MiKTeX\miktex\bin\x64\;;C:\Users\shenx\AppData\Local\Programs\Ollama;D:\Ollama
 # environment
 ZES_ENABLE_SYSMAN = 1
+# environment
+EFC_12996_2283032206 = 1
 # environment
 COMPUTERNAME = XWSHEN-MATEBOOK
 # default
@@ -184,8 +182,6 @@ USERDOMAIN = XWSHEN-MATEBOOK
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-__COMPAT_LAYER = RunAsInvoker
 # makefile
 .DEFAULT_GOAL := update
 # default
@@ -203,7 +199,11 @@ ASL.LOG = Destination=file
 # environment
 APPDATA = C:\Users\shenx\AppData\Roaming
 # environment
+EFC_12996_1262719628 = 1
+# environment
 HOMEDRIVE = C:
+# environment
+EFC_12996_1592913036 = 1
 # environment
 COPILOT_OTEL_ENABLED = true
 # environment
@@ -215,7 +215,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\shenx\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.118.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\b4329f78-1.120.0-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -233,15 +233,13 @@ MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries
 # environment
 PROCESSOR_REVISION = ba02
 # environment
+EFC_12996_2775293581 = 1
+# environment
 VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
-# environment
-EFC_12848_2946480783 = 1
-# environment
-EFC_12848_3789132940 = 1
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
 # variable set hash-table stats:
-# Load=114/1024=11%, Rehash=0, Collisions=13/142=9%
+# Load=113/1024=11%, Rehash=0, Collisions=11/141=8%
 
 # Pattern-specific Variable Values
 
@@ -336,6 +334,6 @@ all:
 # strcache performance: lookups = 60 / hit rate = 30%
 # hash-table stats:
 # Load=42/8192=1%, Rehash=0, Collisions=0/60=0%
-# Finished Make data base on Sat May 02 16:31:52 2026
+# Finished Make data base on Wed May 13 17:04:20 2026
 
  
