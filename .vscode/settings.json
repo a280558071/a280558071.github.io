@@ -1,4 +1,5 @@
 {
     "makefile.extensionOutputFolder": "./.vscode",
-    "chat.sessionSync.enabled": true
+    "chat.sessionSync.enabled": true,
+    "livePreview.defaultPreviewPath": "/index.html"
 }
